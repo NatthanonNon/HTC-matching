@@ -14,7 +14,7 @@ We need the planner with the following requirement
 - There are `4` activities
 - Ther are `x` members
 - There are `y` man-days
-- Everyone equally joins every acticity
+- Everyone equally joins every activity
 - Everyone equally meets each other
 
 ## Example
@@ -83,14 +83,14 @@ In this step, we use `fitnessValue = 2*checkAct + 1*checkMeet`
 ![Input](demo/input.png)
 
 ### Output
-![Output](demo/output.png)
+<img src="demo/output.png" alt="Output" width="400"/>
 
 ### Visualize 
 
 #### Activity
-![Activity](demo/visualize_act.png)
+<img src="demo/visualize_act.png" alt="Activity" width="400"/>
 
 #### Activity Frequency
 ![Activity_freq](demo/visualize_act_freq.png)
 
-For more information, you can look at `demo/Grouping and Scheduling Problem.pptx`
+For more information, you can look at [this powerpoint](https://github.com/NatthanonNon/HTC-matching/blob/main/demo/Grouping%20and%20Scheduling%20Problem.pptx)
